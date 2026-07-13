@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Eldar J</h1>
 
-<!--
-**wuser-lab/wuser-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building, learning, and creating on the web.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm Eldar J. I enjoy exploring technology, building useful projects, and turning ideas into things people can use.
+
+This profile is where I share what I'm working on and document my progress.
+
+## Current Focus
+
+- Building thoughtful digital products
+- Learning through hands-on projects
+- Sharing useful open-source work
+
+## Featured Projects
+
+My latest work will appear here. You can also explore the repositories pinned below this profile.
+
+## Connect
+
+- 🌐 [Website](https://wwwwwwww.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eldarj888/)
+
