@@ -1,29 +1,30 @@
 <h1 align="center">Hi 👋 I'm Eldar J</h1>
 
 <p align="center">
-  Building, learning, and creating on the web.
+  Building reliable systems, secure developer tools, and practical AI services.
 </p>
 
 ---
 
 ## About Me
 
-I'm Eldar J. I enjoy exploring technology, building useful projects, and turning ideas into things people can use.
-
-This profile is where I share what I'm working on and document my progress.
+I'm Eldar J. I build backend and full-stack software with an emphasis on reliability, security, and clear engineering tradeoffs.
 
 ## Current Focus
 
-- Building thoughtful digital products
-- Learning through hands-on projects
-- Sharing useful open-source work
+- Distributed systems and fault-tolerant services
+- Applied security and privacy-aware infrastructure
+- AI-backed APIs with production-quality testing and delivery
 
 ## Featured Projects
 
-My latest work will appear here. You can also explore the repositories pinned below this profile.
+- **[Quorum Cache](https://github.com/wuser-lab/quorum-cache)** — fault-tolerant Go key-value service with quorum writes, TTLs, failure injection, and read repair.
+- **[VaultDrop](https://github.com/wuser-lab/vaultdrop)** — end-to-end encrypted file exchange CLI using RSA-OAEP and AES-256-GCM.
+- **[DocuParse API](https://github.com/wuser-lab/docuparse-api)** — PII-aware FastAPI document intelligence service with typed extraction, confidence, and provenance.
+
+Each repository includes automated tests, Docker support, GitHub Actions CI, architecture notes, and a concise interview-ready walkthrough.
 
 ## Connect
 
 - 🌐 [Website](https://wwwwwwww.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/eldarj888/)
-
